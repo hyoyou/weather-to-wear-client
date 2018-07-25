@@ -1,0 +1,74 @@
+.App {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  border: 1px solid #00171F;
+  border-radius: 17px;
+  padding-bottom: 3%;
+  color: #00171F;
+  background-color: #F5F1ED;
+}
+
+.App-header {
+  background-color: #00171F;
+  height: 3%;
+  padding: 40px 20px;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.App-title {
+  font-family: 'Bungee Shade', cursive;
+  font-size: 3.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.navi {
+  font-family: 'Lalezar', cursive;
+  font-size: 1.5em;
+  padding-bottom: '10px';
+  margin-bottom: '12px';
+}
+
+fieldset {
+  display: block;
+  margin: 50px;
+  padding: 20px;
+  border: 1px solid #00171F;
+  border-radius: 17px;
+}
+
+body {
+  background-color: #70798C;
+}
+
+footer {
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+
+h1 a {
+  text-decoration: none;
+  color: #DFDCD8;
+}
+
+a {
+  color: #DFDCD8;
+}
+
+a:hover, a:active {
+  text-decoration: none;
+  color: #7786AA;
+}
+
+.btn-margin {
+  margin-top: 15px;
+}
